@@ -1,0 +1,22 @@
+{
+  "name": "gizziutil",
+  "version": "1.0.0",
+  "description": "Made for me by me, for utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GizziXZ/gizziutil.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "GizziXZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GizziXZ/gizziutil/issues"
+  },
+  "homepage": "https://github.com/GizziXZ/gizziutil#readme"
+}
